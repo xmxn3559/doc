@@ -49,6 +49,7 @@
 //----------------------------------------------------------------------------------------------
 
 `timescale 1ns / 1ps
+`timescale 1ns / 1ps
 // import package 
 import axi_vip_pkg::*;
 import ex_sim_axi_vip_mst_0_pkg::*;
