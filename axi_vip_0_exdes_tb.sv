@@ -66,6 +66,7 @@ module axi_vip_0_exdes_tb(
   } exdes_passthrough_t;
 
   exdes_passthrough_t                     exdes_state = EXDES_PASSTHROUGH;
+  exdes_passthrough_t                     exdes_state = EXDES_PASSTHROUGH;
 
   //Simple loop integer
   integer                                 i; 
